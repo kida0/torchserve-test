@@ -1,0 +1,6 @@
+Dockerfile
+logs/
+modelStore/
+ping.py
+config.properties
+model.py
